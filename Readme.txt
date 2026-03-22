@@ -5,6 +5,8 @@ https://www.dhzyw.com/archives/7891.html
 https://chatgpt.com/share/69be975a-ff0c-8008-908c-7d7e5bb396c9
 https://www.youtube.com/watch?v=A4PLqwDligE
 https://www.youtube.com/watch?v=F9f02BeA_Ms
+https://www.youtube.com/watch?v=jn7FzlTCyDw
+https://www.dhzyw.com/archives/7940.html
 
 基礎環境準備
 	00.VM網路 NAT和橋接的差別: 橋接（Bridged）模式讓虛擬機在區域網路中獲得獨立 IP，與宿主機地位相同，適合需被外部訪問的伺服器場景；NAT 模式則是虛擬機共享宿主機 IP，通過宿主機進行網路轉換，隱藏在內部，適合需要上網但無需外部訪問的開發測試環境。
